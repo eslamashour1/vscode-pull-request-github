@@ -5,5 +5,8 @@
 		".eslintrc.*.json": "jsonc"
 	},
 	"files.trimTrailingWhitespace": true,
-	"gitlens.advanced.blame.customArguments": ["--ignore-revs-file", ".gitignore-revs"]
+	"gitlens.advanced.blame.customArguments": [
+		"--ignore-revs-file",
+		".gitignore-revs"
+	]
 }
